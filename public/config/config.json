@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xe90245d725dF65498Ad05873ADe25F645799D0b3",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe90245d725dF65498Ad05873ADe25F645799D0b3",
+  "NETWORK": {
+    "NAME": "MATIC",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Zombie Squad NFT",
+  "SYMBOL": "ZS",
+  "MAX_SUPPLY": 3000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/zombiesquadnft",
+  "Telegram": "https://t.me/zombiesquadnft",
+  "Discord": "https://discord.gg/kDgjanPyu7",
+  "Twitter": "https://twitter.com/ZombieSquadNft",
+  "SHOW_BACKGROUND": false
+}
